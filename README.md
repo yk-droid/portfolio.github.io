@@ -18,7 +18,7 @@
 
 ## Projects
 ### Backtesting Trading Strategies using Python
-[Link]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/yk-droid/Trading-Strategies-backtesting-code-Python))
+[repo link](https://github.com/yk-droid/Trading-Strategies-backtesting-code-Python)
 
 Gathered and processed daily and intraday market data for equities using Python (yfinance, Pandas). Developed a reusable backtesting framework for strategies involving indicators such as RSI, MACD,
 VWAP, DMI, and Bollinger Bands. Evaluated performance by computing 10+ trade metrics (win rate, Sharpe ratio, cumulative returns), helping in identifying the most profitable strategies. 
@@ -26,7 +26,7 @@ VWAP, DMI, and Bollinger Bands. Evaluated performance by computing 10+ trade met
 ![Stratgey Simulation](/assets/img/eeg_band_discovery.jpeg)
 
 ### Business Valuation through Discounted Cash Flow (DCF) Analysis- Financial Modelling Project 
-[Excel Link]([https://www.mdpi.com/1424-8220/22/11/4240](https://1drv.ms/x/c/7e2a01ff6885c35d/EV3DhWj_ASoggH4EGAAAAAABqfnooVh7jmy1I5yhPKgW9Q?e=EfyTMU))
+[Excel file](https://1drv.ms/x/c/7e2a01ff6885c35d/EV3DhWj_ASoggH4EGAAAAAABqfnooVh7jmy1I5yhPKgW9Q?e=EfyTMU)
 
 Executed an in-depth DCF Model to gain business valuation experience and enhance financial modelling proficiency. 
 Built and applied robust DCF models in Excel for 15–20 listed companies across pharma, retail, and tech sectors, using 5 years of historical financials and 10-year FCF projections. 
